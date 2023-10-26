@@ -1,8 +1,6 @@
----
-description: Kurtaw
----
-
 # ☀ Welcome to Book of Enlightenment
+
+
 
 {% hint style="info" %}
 **Ingfo:** awali dengan Bismillah
@@ -10,7 +8,7 @@ description: Kurtaw
 
 ## Overview
 
-Here are a couple of example overviews from products with really great docs:
+Sebenarnya tidak benar
 
 > Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
 >
